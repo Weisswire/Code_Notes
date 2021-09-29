@@ -1,2 +1,2 @@
 # Code_Notes
-Notes
+Notes of coding.
